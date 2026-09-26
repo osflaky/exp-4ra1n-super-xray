@@ -1,0 +1,6 @@
+.idea/
+target/
+super-xray-*/
+release/*.exe
+release/*.jar
+release/*.zip
